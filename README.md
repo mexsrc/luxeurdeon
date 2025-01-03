@@ -1,50 +1,20 @@
-# FEXDroid
-This project aims to bring 'FEX-Emu' a fantastic emulator of X86_64 to the Android platform. 
-WELCOME to FEXDroid by GameXtra4u
+![luxeurdeton-logo](img/logo.png)
 
+<div align="center">
+<h1>Luxeurdeton</h1>
+</div>
 
-# FEX-Emu on Android
+An upcoming configurable CMD (stand for **c**o**m**man**d**) based on [``daijin``](https://github.com/Moe-hacker/daijin/tree/main?tab=readme-ov-file) and [Termux-Proot-Custom-Installer](https://github.com/23xvx/Termux-Proot-Custom-Installer/tree/main?tab=readme-ov-file).
 
-## Overview
-This project aims to bring 'FEX-Emu' a fantastic emulator of X86_64 to the Android platform. 
+> [!WARNING]
+> As of today, this project is work-in-progress after [FEXDroid](https://github.com/gamextra4u/FEXDroid/tree/main?tab=readme-ov-file), the CMD (stand for **c**o**m**man**d**) under same name of [FEX-android](https://github.com/Lrs121/FEX-android/tree/main?tab=readme-ov-file) fork, because [those author](https://github.com/mexsrc) hasn't ready to release Luxeurdeton under ***"launch"* form**, which have development action yet.
+>
+> If you're consider searching for alternative Luxeurdeton, discover those compositior named [``proot-distro``](https://github.com/termux/proot-distro/tree/master?tab=readme-ov-file), ``proot`` built-in CMD (stand for **c**o**m**man**d**) developed by [Termux's organization](https://github.com/termux).
 
-FEXDroid is Similar to Box64droid.
-Box64droid is using box64 to run pc programs.
-But FEXDroid is using FEX to Emulate Pc programs.
-## Features
-- Turnip-zink ( mesa 23.2.1 by default)
-- only for Proot 
-- wine 8.0.2 included 
+## That name is equipped...
 
-## Getting Started
-First You Need to Install Termux App and Termux-x11
+To enter similar confusion with *"**Nick**elodeon"* name, *"Luxeurdeton"* name is created as combination, here their matching:<br>
+1. in Latin, *"lupa"* is female wolf against dog, which can able to eat, but it's word is combine with *"FEX"*, the *"flex"*-like considerable name used for [FEX-EMU](https://github.com/FEX-Emu/FEX/tree/main?tab=readme-ov-file), to print *"lux"*, which also simple word of *"luxury"* (used as first part of *"Luxeurdeton"* name.)
+2. in Europe, *"Euro"* is EBU built-in European word that consists *"Europe"* word used by *Eurosport*, but it's word is combine with separate part of *"dotenorate"* to print *"Eurdoten"* (used as second part of *"Luxeurdeton"* name.)
 
-### Prerequisites
-- Termux
--Termux-x11
-- size around 8gb
-
-### Installation
-1.   Copy This to Termux
- `curl -o install https://raw.githubusercontent.com/gamextra4u/FEXDroid/main/install && chmod +x install && ./install`
-2. After Installation complete Type "fexdroid" to start.
-3. After start Type `"./rootfs"` to install ROOTFS for FEX, Without ROOTFS FEX-EMU is useless on ARM64.
-
-## Usage
-- open Termux App Type `fexdroid` to start ubuntu.
-- Type `start &>/dev/null` to start WINE
-- To Close Wine Just press CTRL+c to stop
-- Type `exit` to stop Ubuntu and once again Type `exit`
-- Right Now Force-stop Termux to Stop Termux-x11.
-- I don't know How to kill process of Termux-x11 Right now.
-
-## Issues
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/gamextra4u/FEXDroid/issues).
-## License
-I Don't know How to Add Licenses
-But I give Right Anyone to use this project
-
-## Acknowledgments
-- This Project is Inspired by Box64droid .
-
-- AkiraYuki YouTuber is also My Inspiration to make this Project.
+If *Paramount Global* report this project, we're slave remains yet.<br>Also, if you're supposed to create repo that confusion with *"**Nick**elodeon"*, don't create those for protection yet.
